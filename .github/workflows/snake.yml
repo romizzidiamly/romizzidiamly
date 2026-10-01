@@ -1,0 +1,24 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            github-snake.svg?color_snake=%23A78BFA&color_dots=%23EDE9FE,%23DDD6FE,%23C4B5FD,%23A78BFA,%237C3AED
+            github-snake-dark.svg?color_snake=%2306B6D4&color_dots=%23161B22,%23312E81,%234C1D95,%235B21B6,%237C3AED
+      - uses: EndBug/add-and-commit@v9
+        with:
+          message: "chore: update snake"
+          default_author: github_actions
