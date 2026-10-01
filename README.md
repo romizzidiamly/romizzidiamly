@@ -1,381 +1,223 @@
+# MAR'IY ROMIZZIDI AMLY
+
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                         CINEMATIC HERO                                  -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<img src="./assets/ai-lab-hero.svg" width="100%" alt="AI Lab animated hero">
 
-<a href="https://github.com/romizzidiamly">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09001A,20:1A0640,45:4C1D95,70:7C3AED,100:06B6D4&height=280&section=header&text=MAR'IY%20ROMIZZIDI%20AMLY&fontSize=45&fontColor=FFFFFF&fontAlignY=35&desc=AI%20LAB%20%2F%2F%20MACHINE%20LEARNING%20%2F%2F%20DEEP%20LEARNING&descAlignY=55&descSize=17&animation=twinkling" width="100%"/>
-</a>
+### `AI / MACHINE LEARNING / DEEP LEARNING`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=19&duration=1800&pause=500&color=67E8F9&center=true&vCenter=true&width=900&height=55&lines=%5B+SYSTEM+ONLINE+%5D;%3E+initializing+AI+lab...;%3E+loading+computer+vision...;%3E+loading+NLP+%2F%2F+audio...;%3E+optimizing+neural+networks...;%3E+building+%7C+training+%7C+evaluating;%5B+READY+TO+EXPERIMENT+%5D" alt="Animated AI terminal"/>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=romizzidiamly&style=for-the-badge&color=7C3AED&label=VISITORS"/>
-<img src="https://img.shields.io/github/followers/romizzidiamly?style=for-the-badge&color=6D28D9&label=FOLLOWERS"/>
-<img src="https://img.shields.io/github/stars/romizzidiamly?style=for-the-badge&color=4C1D95&label=STARS"/>
+[![Profile Views](https://komarev.com/ghpvc/?username=romizzidiamly&style=for-the-badge&color=7C3AED)](https://github.com/romizzidiamly)
+[![GitHub followers](https://img.shields.io/github/followers/romizzidiamly?style=for-the-badge&logo=github&label=FOLLOWERS)](https://github.com/romizzidiamly?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/romizzidiamly?style=for-the-badge&logo=github&label=STARS)](https://github.com/romizzidiamly?tab=repositories)
 
 </div>
 
 ---
 
+## `SYSTEM BOOT`
+
 <div align="center">
 
-### `╔══════════════════════════════════════════════╗`
-### `║        AI RESEARCH TERMINAL // 01           ║`
-### `╚══════════════════════════════════════════════╝`
+<img src="./assets/animated-terminal.svg" width="850" alt="Animated AI terminal">
 
 </div>
 
+| MODULE | STATUS | DOMAIN |
+|---|---|---|
+| `ML-CORE` | `ONLINE` | Regression · Classification · Optimization |
+| `CV-ENGINE` | `ONLINE` | Image Processing · Detection · YOLO · 2D/3D Vision |
+| `NLP-STACK` | `ONLINE` | Text · Embeddings · Transformers · LLMs |
+| `AUDIO-ENGINE` | `ONLINE` | Spectrograms · Classification · Speech |
+| `EFF-AI` | `ACTIVE` | KD · Quantization · QAT · Lightweight Networks |
+| `MULTIMODAL` | `LOADING` | Vision · Language · Audio |
+
+---
+
+## `ACHIEVEMENT UNLOCKED`
+
+<div align="center">
+
+<img src="./assets/achievement-unlocked.svg" width="850" alt="AI achievements">
+
+</div>
+
+---
+
+## `AI WORLD // LIVE`
+
+<div align="center">
+
+<img src="./assets/ai-world.svg" width="950" alt="Animated AI World">
+
+</div>
+
+> A self-contained animated AI world is included locally, so this section renders immediately.  
+> After the `Generate AI World and 3D Profile` workflow runs successfully, a contribution-driven GitWorld is also generated at `dist/gitworld.svg`.
+
+<div align="center">
+
+<img src="./dist/gitworld.svg" width="950" alt="Contribution-driven GitWorld">
+
+</div>
+
+---
+
+## `MISSION CONTROL`
+
 <table>
 <tr>
-<td width="62%" valign="top">
-
-## `> boot_sequence`
-
-```text
-[✓] Python environment
-[✓] Machine Learning
-[✓] Deep Learning
-[✓] Computer Vision
-[✓] Experimental pipelines
-[→] NLP / Transformers
-[→] Audio intelligence
-[→] Efficient AI
-[→] Multimodal systems
-```
-
-I’m **Mar'iy Romizzidi Amly**, an AI/ML enthusiast exploring how intelligent systems learn from data.
-
-My approach:
-
-**QUESTION → EXPERIMENT → EVIDENCE → ANALYSIS → IMPROVEMENT**
-
-</td>
-
-<td width="38%" align="center" valign="middle">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,git,linux,vscode&perline=3"/>
-
-<br><br>
-
-```text
-STATUS
-━━━━━━━━━━━━━━
-● AI LAB       ONLINE
-● EXPERIMENT   ACTIVE
-● GPU          READY
-● RESEARCH     ONGOING
-```
-
-</td>
+<td align="center"><b>01 DATA</b><br>Collect<br>Clean<br>Augment</td>
+<td align="center"><b>02 MODEL</b><br>Build<br>Train<br>Fine-tune</td>
+<td align="center"><b>03 TEST</b><br>Validate<br>Measure<br>Explain</td>
+<td align="center"><b>04 OPTIMIZE</b><br>KD<br>QAT<br>Prune</td>
+<td align="center"><b>05 DEPLOY</b><br>Edge<br>Efficient<br>Monitor</td>
 </tr>
 </table>
 
 ---
 
+## `GITHUB ARCADE`
+
+### `PAC-MAN MODE`
+
 <div align="center">
 
-## `02 // CHOOSE YOUR AI LEVEL`
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romizzidiamly/romizzidiamly/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/romizzidiamly/romizzidiamly/output/pacman-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/romizzidiamly/romizzidiamly/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man contribution graph">
+</picture>
 
 </div>
+
+### `BREAKOUT MODE`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romizzidiamly/romizzidiamly/output/breakout-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/romizzidiamly/romizzidiamly/output/breakout-contribution-graph.svg">
+  <img src="https://raw.githubusercontent.com/romizzidiamly/romizzidiamly/output/breakout-contribution-graph.svg" width="100%" alt="Breakout contribution graph">
+</picture>
+
+</div>
+
+### `SNAKE MODE`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/romizzidiamly/romizzidiamly/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/romizzidiamly/romizzidiamly/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/romizzidiamly/romizzidiamly/output/github-snake.svg" width="100%" alt="Snake contribution graph">
+</picture>
+
+</div>
+
+---
+
+## `BOSS FIGHT // EFFICIENT AI`
+
+<div align="center">
 
 <table>
 <tr>
-<td align="center" width="25%">
-
-### 🧠 LEVEL 01
-
-**MACHINE LEARNING**
-
-Regression  
-Classification  
-Feature Engineering  
-Optimization
-
-</td>
-
-<td align="center" width="25%">
-
-### ⚡ LEVEL 02
-
-**DEEP LEARNING**
-
-CNN  
-RNN / LSTM / GRU  
-Transfer Learning  
-Transformers
-
-</td>
-
-<td align="center" width="25%">
-
-### 👁️ LEVEL 03
-
-**VISION**
-
-OpenCV  
-Feature Extraction  
-Classification  
-Object Detection
-
-</td>
-
-<td align="center" width="25%">
-
-### 💬 LEVEL 04
-
-**LANGUAGE**
-
-NLP  
-Embeddings  
-Sequence Models  
-LLMs
-
-</td>
+<td align="center"><b>TEACHER</b><br>Dense CNN / Transformer</td>
+<td align="center"><b>KD</b><br>Knowledge Transfer</td>
+<td align="center"><b>STUDENT</b><br>Lightweight Network</td>
+<td align="center"><b>QAT</b><br>Feature Preservation</td>
+<td align="center"><b>EDGE</b><br>Efficient Inference</td>
 </tr>
 </table>
 
-<div align="center">
-
-`🎧 AUDIO` &nbsp;&nbsp; `🌐 MULTIMODAL` &nbsp;&nbsp; `⚙️ EFFICIENT AI` &nbsp;&nbsp; `🚀 DEPLOYMENT`
-
 </div>
+
+Focus areas:
+
+- Quantization-aware training
+- Feature-preserving distillation
+- Lightweight CNNs
+- Efficient inference
+- Edge AI
+- Resource-constrained deployment
 
 ---
 
-<div align="center">
-
-## `03 // AI WORLD`
-
-</div>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Dasmat13/git-world-action/main/assets/demo.svg" width="96%" alt="Animated GitWorld"/>
-</p>
+## `FEATURED PROJECTS`
 
 <div align="center">
-
-**Your commits become buildings. Your repositories become cities.**
-
-</div>
-
----
-
-<div align="center">
-
-## `04 // MISSION MAP`
-
-</div>
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-### 🗃️ DATA
-
-Image  
-Text  
-Audio  
-Tabular
-
-</td>
-<td align="center" width="5%"><b>◆</b></td>
-<td align="center" width="20%">
-
-### 🧬 MODEL
-
-ML  
-CNN  
-RNN  
-Transformer
-
-</td>
-<td align="center" width="5%"><b>◆</b></td>
-<td align="center" width="20%">
-
-### 🔬 TEST
-
-F1  
-AUC  
-FLOPs  
-Latency
-
-</td>
-<td align="center" width="5%"><b>◆</b></td>
-<td align="center" width="20%">
-
-### ⚙️ OPTIMIZE
-
-QAT  
-KD  
-Compression  
-Edge AI
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-`DATA` &nbsp; ◆ &nbsp; `MODEL` &nbsp; ◆ &nbsp; `TEST` &nbsp; ◆ &nbsp; `OPTIMIZE` &nbsp; ◆ &nbsp; `DEPLOY`
-
-</div>
-
----
-
-<div align="center">
-
-## `05 // FEATURED MISSIONS`
-
-</div>
-
-<p align="center">
 
 <a href="https://github.com/romizzidiamly/Student-Performance-Regression">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=romizzidiamly&repo=Student-Performance-Regression&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=romizzidiamly&repo=Student-Performance-Regression&theme=tokyonight" alt="Student Performance Regression">
 </a>
 
 <a href="https://github.com/romizzidiamly/CardioPulse-CNN">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=romizzidiamly&repo=CardioPulse-CNN&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=romizzidiamly&repo=CardioPulse-CNN&theme=tokyonight" alt="CardioPulse CNN">
 </a>
-
-<br>
 
 <a href="https://github.com/romizzidiamly/computer-vision-project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=romizzidiamly&repo=computer-vision-project&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=romizzidiamly&repo=computer-vision-project&theme=tokyonight" alt="Computer Vision Project">
 </a>
 
-<a href="https://github.com/romizzidiamly/animal-voice-classification">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=romizzidiamly&repo=animal-voice-classification&theme=radical&hide_border=true"/>
+<a href="https://github.com/romizzidiamly/image-enhancement">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=romizzidiamly&repo=image-enhancement&theme=tokyonight" alt="Image Enhancement">
 </a>
 
-</p>
+</div>
 
 ---
 
+## `TECH STACK`
+
 <div align="center">
 
-## `06 // BOSS FIGHT: EFFICIENT AI`
+<img src="https://skillicons.dev/icons?i=python,pytorch,opencv,tensorflow,git,github,linux,vscode,jupyter,latex,docker&perline=11" alt="Technology stack">
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**Machine Learning:** Regression · Classification · Feature Engineering · Evaluation · Regularization · Optimization
 
-### `LARGE MODEL`
+**Deep Learning:** CNN · RNN · LSTM · GRU · Transfer Learning · Transformers · Knowledge Distillation · Quantization · QAT
 
-**Knowledge**
+**Computer Vision:** OpenCV · Image Processing · Feature Extraction · YOLO · Detection · Classification · 2D/3D Vision
 
-- rich representations
-- high capacity
-- expensive inference
-- large compute requirements
+**NLP & Audio:** Text Classification · Embeddings · Sequence Models · Transformers · Spectrograms · Speech Processing
 
-</td>
+---
 
-<td width="50%" valign="top">
-
-### `SMALL MODEL`
-
-**Deployment**
-
-- lightweight architecture
-- lower latency
-- lower memory
-- edge-friendly inference
-
-</td>
-</tr>
-</table>
+## `3D CONTRIBUTION TERRAIN`
 
 <div align="center">
 
-### `TEACHER` 🧠
-### `↓`
-### `KNOWLEDGE DISTILLATION`
-### `↓`
-### `STUDENT` ⚡
-### `↓`
-### `QUANTIZATION`
-### `↓`
-### `EDGE / EFFICIENT AI`
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution terrain">
 
 </div>
 
 ---
 
-<div align="center">
+## `PLAYER STATS`
 
-## `07 // ANIMATED TERMINAL`
-
-</div>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/navi3582/animated-github-profile/main/avi-ascii.svg" width="760" alt="Animated terminal profile"/>
-</p>
-
----
-
-<div align="center">
-
-## `08 // GITHUB ARCADE`
-
-### 🐍 SNAKE MODE
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
-<img alt="Snake contribution game" src="github-snake.svg" width="94%">
-</picture>
-
-<br><br>
-
-### 👾 PAC-MAN MODE
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="pacman-contribution-graph-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="pacman-contribution-graph.svg">
-<img alt="Pac-Man contribution game" src="pacman-contribution-graph.svg" width="94%">
-</picture>
-
-<br><br>
-
-### 🧱 BREAKOUT MODE
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="breakout-contribution-graph-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="breakout-contribution-graph.svg">
-<img alt="Breakout contribution game" src="breakout-contribution-graph.svg" width="94%">
-</picture>
-
-</div>
+| STAT | CURRENT FOCUS |
+|---|---|
+| `AI LEVEL` | Machine Learning → Deep Learning |
+| `VISION` | Detection · Classification · Image Processing |
+| `LANGUAGE` | Python |
+| `OPTIMIZATION` | KD · QAT · Quantization |
+| `DEPLOYMENT` | Resource-efficient / Edge AI |
+| `NEXT UNLOCK` | Multimodal AI |
 
 ---
 
-<div align="center">
-
-## `09 // 3D CONTRIBUTION TERRAIN`
-
-<img src="profile-3d-contrib/profile-night-rainbow.svg" width="95%" alt="3D contribution terrain"/>
-
-</div>
-
----
+## `GITHUB STATS`
 
 <div align="center">
 
-## `10 // LIVE GITHUB STATS`
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=romizzidiamly&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=radical&rank_icon=github"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romizzidiamly&layout=donut&langs_count=7&hide_border=true&theme=radical"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=romizzidiamly&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats">
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romizzidiamly&layout=donut&theme=tokyonight&hide_border=true" alt="Top languages">
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=romizzidiamly&theme=radical&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=romizzidiamly&theme=tokyonight&hide_border=true" alt="GitHub streak">
 
 </div>
 
@@ -383,64 +225,8 @@ Edge AI
 
 <div align="center">
 
-## `11 // ACHIEVEMENT UNLOCKED`
+<img src="./assets/footer.svg" width="100%" alt="AI Lab footer">
 
-<img src="https://github-profile-trophy.vercel.app/?username=romizzidiamly&theme=radical&no-frame=true&no-bg=true&margin-w=7&column=7" width="95%"/>
-
-</div>
-
----
-
-<div align="center">
-
-## `12 // TECH LOADOUT`
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,numpy,pandas,matplotlib,git,github,linux,vscode,jupyter&perline=7"/>
-
-<br><br>
-
-`Python` · `PyTorch` · `TensorFlow` · `OpenCV` · `Scikit-learn`
-
-`NumPy` · `Pandas` · `Matplotlib` · `YOLO` · `Jupyter` · `LaTeX`
-
-</div>
-
----
-
-<div align="center">
-
-## `13 // PLAYER STATS`
-
-<table>
-<tr>
-<td align="center"><b>VISION</b><br>████████████████░░░░</td>
-<td align="center"><b>DEEP LEARNING</b><br>███████████████░░░░░</td>
-</tr>
-<tr>
-<td align="center"><b>NLP</b><br>███████████░░░░░░░░░</td>
-<td align="center"><b>EFFICIENT AI</b><br>████████████░░░░░░░░</td>
-</tr>
-</table>
-
-<sub>Learning trajectory only — not a proficiency score.</sub>
-
-</div>
-
----
-
-<div align="center">
-
-## `14 // FINAL BOSS`
-
-### **DON'T JUST TRAIN THE MODEL.**
-### **UNDERSTAND THE MODEL.**
-
-<br>
-
-`LEARN` → `BUILD` → `TRAIN` → `EVALUATE` → `UNDERSTAND` → `IMPROVE`
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,25:4C1D95,50:7C3AED,75:24104F,100:09001A&height=150&section=footer&text=AI%20LAB%20%E2%80%A2%20SYSTEM%20ONLINE&fontSize=20&fontColor=FFFFFF&animation=twinkling" width="100%"/>
+### `SYSTEM ONLINE // KEEP BUILDING`
 
 </div>

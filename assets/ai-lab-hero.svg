@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 430">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#070014"/><stop offset=".5" stop-color="#1b0640"/><stop offset="1" stop-color="#041827"/></linearGradient>
+  <linearGradient id="neon" x1="0" x2="1"><stop stop-color="#a78bfa"/><stop offset=".5" stop-color="#7c3aed"/><stop offset="1" stop-color="#06b6d4"/></linearGradient>
+  <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="45" height="45" patternUnits="userSpaceOnUse"><path d="M45 0H0V45" fill="none" stroke="#8b5cf6" stroke-opacity=".12"/></pattern>
+</defs>
+<rect width="1400" height="430" rx="28" fill="url(#bg)"/>
+<rect width="1400" height="430" rx="28" fill="url(#grid)"/>
+<g opacity=".9" stroke="url(#neon)" fill="none">
+  <path d="M80 325 L210 210 L350 285 L500 150 L650 235 L800 105 L950 210 L1110 125 L1300 245" stroke-width="2"/>
+  <path d="M210 210 L210 110 M350 285 L350 365 M500 150 L500 70 M650 235 L650 345 M800 105 L800 40 M950 210 L950 330 M1110 125 L1110 55" stroke-opacity=".55"/>
+</g>
+<g fill="#a78bfa" filter="url(#glow)">
+  <circle cx="210" cy="210" r="7"><animate attributeName="r" values="5;10;5" dur="1.7s" repeatCount="indefinite"/></circle>
+  <circle cx="350" cy="285" r="7"><animate attributeName="r" values="5;11;5" dur="2.1s" repeatCount="indefinite"/></circle>
+  <circle cx="500" cy="150" r="8"><animate attributeName="r" values="6;12;6" dur="1.4s" repeatCount="indefinite"/></circle>
+  <circle cx="650" cy="235" r="7"><animate attributeName="r" values="5;10;5" dur="1.9s" repeatCount="indefinite"/></circle>
+  <circle cx="800" cy="105" r="9"><animate attributeName="r" values="6;13;6" dur="1.5s" repeatCount="indefinite"/></circle>
+  <circle cx="950" cy="210" r="7"><animate attributeName="r" values="5;11;5" dur="2.0s" repeatCount="indefinite"/></circle>
+  <circle cx="1110" cy="125" r="8"><animate attributeName="r" values="5;12;5" dur="1.6s" repeatCount="indefinite"/></circle>
+</g>
+<rect x="70" y="45" width="1260" height="4" rx="2" fill="#06b6d4" opacity=".8">
+  <animate attributeName="y" values="45;380;45" dur="5s" repeatCount="indefinite"/>
+</rect>
+<g font-family="monospace" fill="#f5f3ff">
+  <text x="90" y="105" font-size="22" fill="#06b6d4">[ AI LAB / BOOT SEQUENCE ]</text>
+  <text x="90" y="165" font-size="52" font-weight="700">MAR'IY ROMIZZIDI AMLY</text>
+  <text x="92" y="202" font-size="21" fill="#c4b5fd">ARTIFICIAL INTELLIGENCE // MACHINE LEARNING // DEEP LEARNING</text>
+  <text x="92" y="255" font-size="18" fill="#a78bfa">&gt; CV_ENGINE    [ONLINE]</text>
+  <text x="92" y="285" font-size="18" fill="#a78bfa">&gt; NLP_ENGINE   [ONLINE]</text>
+  <text x="92" y="315" font-size="18" fill="#a78bfa">&gt; AUDIO_ENGINE [ONLINE]</text>
+  <text x="92" y="345" font-size="18" fill="#06b6d4">&gt; EFFICIENT_AI [ACTIVE]</text>
+  <text x="92" y="385" font-size="22" fill="#06b6d4">SYSTEM ONLINE <animate attributeName="opacity" values="1;.25;1" dur="1.2s" repeatCount="indefinite"/></text>
+</g>
+<g fill="#06b6d4" font-family="monospace" font-size="15"><text x="1180" y="380">FPS 60</text><text x="1250" y="380">GPU: AI</text></g>
+</svg>

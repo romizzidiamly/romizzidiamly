@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430">
+<defs><linearGradient id="w" x2="0" y2="1"><stop stop-color="#050014"/><stop offset="1" stop-color="#061a2b"/></linearGradient><linearGradient id="b" x2="0" y2="1"><stop stop-color="#a78bfa"/><stop offset="1" stop-color="#4c1d95"/></linearGradient><filter id="wg"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1200" height="430" rx="24" fill="url(#w)"/>
+<path d="M0 365 Q300 320 600 360 T1200 340 V430 H0Z" fill="#070b19"/>
+<g fill="url(#b)" filter="url(#wg)">
+<rect x="80" y="250" width="70" height="115"><animate attributeName="height" values="90;135;90" dur="3s" repeatCount="indefinite"/><animate attributeName="y" values="275;230;275" dur="3s" repeatCount="indefinite"/></rect>
+<rect x="180" y="190" width="85" height="175"><animate attributeName="height" values="140;205;140" dur="4s" repeatCount="indefinite"/></rect>
+<rect x="300" y="235" width="75" height="130"/><rect x="410" y="150" width="95" height="215"><animate attributeName="height" values="180;230;180" dur="2.5s" repeatCount="indefinite"/></rect>
+<rect x="545" y="210" width="70" height="155"/><rect x="650" y="125" width="105" height="240"/><rect x="790" y="225" width="80" height="140"/><rect x="900" y="175" width="110" height="190"/><rect x="1040" y="245" width="70" height="120"/>
+</g>
+<g fill="#06b6d4"><circle cx="120" cy="275" r="4"/><circle cx="220" cy="225" r="4"/><circle cx="450" cy="185" r="4"/><circle cx="700" cy="165" r="4"/><circle cx="950" cy="205" r="4"/></g>
+<path d="M50 365 H1150" stroke="#06b6d4" stroke-width="3" opacity=".7"/>
+<g font-family="monospace"><text x="50" y="55" font-size="28" fill="#06b6d4">AI WORLD // LIVE SIMULATION</text><text x="50" y="88" font-size="17" fill="#c4b5fd">REPOS → CITIES · MODELS → BUILDINGS · DATA → ENERGY</text><text x="1030" y="55" font-size="16" fill="#a78bfa">ONLINE</text></g>
+<circle cx="600" cy="80" r="8" fill="#06b6d4"><animate attributeName="cy" values="80;115;80" dur="2s" repeatCount="indefinite"/></circle>
+</svg>

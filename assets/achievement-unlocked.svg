@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 330">
+<defs><linearGradient id="a" x2="1"><stop stop-color="#12002d"/><stop offset=".5" stop-color="#2b0b5e"/><stop offset="1" stop-color="#062b3a"/></linearGradient><filter id="ag"><feGaussianBlur stdDeviation="4" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1100" height="330" rx="24" fill="url(#a)" stroke="#7c3aed" stroke-width="2"/>
+<text x="50" y="60" font-family="monospace" font-size="29" fill="#06b6d4">ACHIEVEMENT SYSTEM // UNLOCKED</text>
+<g font-family="monospace" font-size="20">
+<g fill="#a78bfa"><text x="55" y="110">[✓] ML FOUNDATION</text><text x="55" y="150">[✓] COMPUTER VISION</text><text x="55" y="190">[✓] DEEP LEARNING</text><text x="55" y="230">[✓] YOLO / DETECTION</text><text x="55" y="270">[✓] KNOWLEDGE DISTILLATION</text><text x="55" y="310">[✓] QUANTIZATION / QAT</text></g>
+<g fill="#06b6d4"><text x="700" y="110">XP +0100</text><text x="700" y="150">XP +0200</text><text x="700" y="190">XP +0300</text><text x="700" y="230">XP +0400</text><text x="700" y="270">XP +0500</text><text x="700" y="310">XP +0600</text></g>
+</g>
+<circle cx="1010" cy="65" r="18" fill="none" stroke="#06b6d4" stroke-width="3"><animate attributeName="r" values="15;25;15" dur="1.6s" repeatCount="indefinite"/></circle>
+</svg>
