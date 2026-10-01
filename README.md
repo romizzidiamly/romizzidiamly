@@ -51,9 +51,6 @@
 
 </div>
 
-> A self-contained animated AI world is included locally, so this section renders immediately.  
-> After the `Generate AI World and 3D Profile` workflow runs successfully, a contribution-driven GitWorld is also generated at `dist/gitworld.svg`.
-
 <div align="center">
 
 <img src="./dist/gitworld.svg" width="950" alt="Contribution-driven GitWorld">
