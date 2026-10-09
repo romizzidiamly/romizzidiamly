@@ -144,6 +144,10 @@ Focus areas:
 
 <div align="center">
 
+<a href="https://github.com/romizzidiamly/object-detection-yolo11n">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=romizzidiamly&repo=object-detection-yolo11n&theme=tokyonight" alt"Object Detection Yolo11n">
+</a>
+
 <a href="https://github.com/romizzidiamly/Student-Performance-Regression">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=romizzidiamly&repo=Student-Performance-Regression&theme=tokyonight" alt="Student Performance Regression">
 </a>
