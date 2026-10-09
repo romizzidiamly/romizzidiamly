@@ -144,12 +144,16 @@ Focus areas:
 
 <div align="center">
 
-<a href="https://github.com/romizzidiamly/object-detection-yolo11n">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=romizzidiamly&repo=object-detection-yolo11n&theme=tokyonight" alt"Object Detection Yolo11n">
+<a href="https://github.com/romizzidiamly/object-detection-yolov11n">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=romizzidiamly&repo=object-detection-yolov11n&theme=tokyonight" alt"Object Detection Yolo11n">
 </a>
 
 <a href="https://github.com/romizzidiamly/Student-Performance-Regression">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=romizzidiamly&repo=Student-Performance-Regression&theme=tokyonight" alt="Student Performance Regression">
+</a>
+
+<a href="https://github.com/romizzidiamly/a-star-using-reverse-ucs">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=romizzidiamly&repo=a-star-using-reverse-ucs&theme=tokyonight" alt="A* With Heuristic using Reverse UCS">
 </a>
 
 <a href="https://github.com/romizzidiamly/CardioPulse-CNN">
